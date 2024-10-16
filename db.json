@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 1",
+      "price": 40000,
+      "category": "Danh mục 1",
+      "imageUrl": "https://res.cloudinary.com/dvrexlsgx/image/upload/v1728937891/crzqnsbtjawzikt8bap0.webp",
+      "available": false,
+      "description": "Đây là mô tả của sản phẩm 1",
+      "id": 1
+    },
+    {
+      "name": "Sản phẩm 2",
+      "price": 60000,
+      "category": "Danh mục 2",
+      "imageUrl": "https://res.cloudinary.com/dvrexlsgx/image/upload/v1728937908/ijcl2hmtwztzn5usirvj.webp",
+      "available": true,
+      "description": "Đây là mô tả của sản phẩm 2",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "tung@gmail.com",
+      "password": "$2a$10$ncXNbxHuKpwcGX.PpMr1z.hPmMmqr2gsJ6vfOlt9efFfjRh0lwu1m",
+      "username": "Trương Văn Tùng",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$WEwJV8L6CJ5GvMXCkhrpW.l3ntEoS/mi.bLst9UkTfQB7o9uXRZ7O",
+      "username": "admin",
+      "id": 2
+    },
+    {
+      "email": "qerara@mailinator.com",
+      "password": "$2a$10$OFS.sZfZJ9Z6fimbKbzE..x26jC964.LZeB1Nfp/o22VP1iBvGjei",
+      "username": "mopaceraf",
+      "id": 3
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$w2WI4a0xEBrLD7o1YiLHdu5EZ1DGzcpocJZBfzmfpQFoouUHYaLRK",
+      "username": "abc123",
+      "id": 4
+    }
+  ]
+}
